@@ -1,1 +1,2 @@
-Holberthon School
+#!/bin/bash
+echo "Holberthon School"
